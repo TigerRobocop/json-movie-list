@@ -1,0 +1,26 @@
+{
+    "name" : "Greta",
+    "year" : 2019,
+    "runtime" : 124,
+    "categories" : [
+      "drama",
+      "mystery",
+      "thriller",
+	  "sci-fi"
+    ],
+    "release-date" : "2019-06-13",
+    "director" : "Neil Jordan",
+    "writer" : [
+      "Ray Wright"
+    ],
+    "actors" : [
+      "Chloë Grace Moretz",
+      "Isabelle Huppert",
+      "Maika Monroe",
+      "Jeff Hiller",
+      "Stephen Hea"
+    ],
+    "storyline" : "Frances (Chloë Grace Moretz) is a young woman whose mother has just passed away. Just moving to Manhattan and having trouble with her father, she forms an unlikely friendship with Greta (Isabelle Huppert), a widow much older than her. However, as the two become better friends, as the widow's attentions turn out to be much more sinister than she thought."
+}
+
+
